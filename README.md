@@ -1,7 +1,8 @@
 # Typewriter
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+A simple electron-based project that uses Ember.js to write `Markdown`.
+
+![Underwood Typewriter](https://raw.githubusercontent.com/jeanleonino/typewriter/master/underwood.JPG)
 
 ## Prerequisites
 
